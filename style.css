@@ -1,0 +1,100 @@
+body{
+    
+background-color:  #B0B5BF;
+color: white;
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+#glowny{
+    
+width:1280px ;
+height:1172px ;
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+border: 1px black solid; 
+}
+
+#baner{
+    width:1280px  ;
+    height:300px ;
+clear: both;
+background-color: #686C73;
+border: 1px black solid; 
+}
+#ban{
+    margin: auto;
+    padding: auto;
+    width:1280px; 
+    height:300px;
+}
+
+#sekcja{
+    width:80% ;
+    height: 800px;
+    background-color: #B4D9CB;
+    float: left;
+ 
+ 
+}
+
+#reklama{
+    width: 19% ;
+    height:800px ;
+    background-color: #51a66a;
+    float: left;
+    margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+border: 0,5px solid black;
+
+}
+
+
+#stopka{
+    width:1280px  ;
+    height:70px ;
+clear: both;
+background-color: #686C73;
+border: 1px black solid;
+    
+}
+.dane{
+    width:180px  ;
+    height:180px ;
+    float: left;
+    margin: 20px 20px 20px 20px;
+    background-color: whitesmoke;
+    border: 1px black solid;
+    color: black;
+  
+}
+.galeria{
+
+    width:150px  ;
+    height:132px ;
+    border: 1px solid black;
+
+}
+
+
+button{
+    width:50px  ;
+    height:30px ;
+    border: 1px solid grey;
+    border-radius: 9px;
+    color: white;
+   font-size: 12px;
+   background-color: black	;
+}
+
+.dane:hover{
+
+    transform: scale(2);
+    background-color: #FFFFE0	 ;
+}
+
+#w1,#w2, #w3{
+    clear: both;
+    margin-left: 66px;
+    margin-top: 50px;
+}
